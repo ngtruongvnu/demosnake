@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615861473 source:c:\users\admin\desktop\test\snakegame\main.cpp
+	"Snake.h"
+	<iostream>
+	<stdexcept>
+	<string>
+	<SDL_image.h>
+	<SDL.h>
+	<windows.h>
+
+1615813646 c:\users\admin\desktop\test\snakegame\snake.h
+	<SDL.h>
+	<deque>
+
+1615861719 source:c:\users\admin\desktop\test\snakegame\snake.cpp
+	"Snake.h"
+	"SDL_Check.h"
+
+1615778252 c:\users\admin\desktop\test\snakegame\sdl_check.h
+	<stdexcept>
+	<string>
+
